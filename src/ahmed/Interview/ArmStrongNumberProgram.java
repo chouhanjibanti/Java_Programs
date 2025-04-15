@@ -34,3 +34,7 @@ public class ArmStrongNumberProgram {
 	}
 
 }
+
+
+
+// ArmStrong program is here 
